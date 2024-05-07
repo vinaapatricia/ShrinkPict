@@ -2,7 +2,8 @@
 
 ShrinkPict is a web application built using ReactJS, Vite, and TailwindCSS. It allows users to easily compress images and audio files directly in their browser.
 
-![image](https://github.com/vinaapatricia/ShrinkPict/assets/95381061/4bb5d7b1-dcd2-42e5-9b09-7169015238e4)
+![image](https://github.com/vinaapatricia/ShrinkPict/assets/95381061/cf84f26b-a7ce-4771-8049-78b64f7102a1)
+
 
 ## Description
 
