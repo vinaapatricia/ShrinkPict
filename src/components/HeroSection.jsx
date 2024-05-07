@@ -20,7 +20,7 @@ const HeroSection = () => {
                 href="#ChooseFeature"
                 className="bg-gradient-to-r from-blue-700 to-purple-800 py-3 px-4 mx-3 rounded-3xl text-white"
               >
-                Wanna Contribute?
+               Get Started
               </a>
       </div>
     </div>
